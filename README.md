@@ -7,6 +7,6 @@ Waiting to be elaborated.
 
 
 ![alt text](https://github.com/jzymiranda/bank_service/blob/main/resource/database_diagram.png?raw=true)
-<p>The database relation and the data relation is based on this diagram</p>
+<p>The database schema and the data relation are illustrated by this diagram.</p>
 
 
