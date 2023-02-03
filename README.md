@@ -7,7 +7,6 @@ Waiting to be elaborated.
 
 
 ![alt text](https://github.com/jzymiranda/bank_service/blob/main/resource/database_diagram.png?raw=true)
-
-<img src="https://drive.google.com/file/d/15xYTo9zis7n760oRGhCm0DQRr3G5T3up/view?usp=sharing"> alt="Database Diagram">
+<p>The database relation and the data relation is based on this diagram</p>
 
 
